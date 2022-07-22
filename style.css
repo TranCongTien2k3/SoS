@@ -5,6 +5,7 @@ body {
   padding: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
+  cursor: url("img/heart.png"), pointer;
 }
 /* ======== header ======== */
 #header {
